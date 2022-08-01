@@ -7,5 +7,9 @@ public class Demo
 		System.out.println("GitHub");
 		
 	}
-
+publkic void demo()
+{
+	
 }
+
+	}
